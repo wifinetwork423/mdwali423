@@ -1,0 +1,5 @@
+# প্যাকেজ আপডেট ও আপগ্রেড
+pkg update && pkg upgrade -y
+
+# Git ও Python ইনস্টল
+pkg install git python python2 curl wget -y
